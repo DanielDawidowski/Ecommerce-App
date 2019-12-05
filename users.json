@@ -1,0 +1,30 @@
+[
+  {
+    "email": "test@test.com"
+  },
+  {
+    "email": "dani@wp.pl",
+    "password": "qweqwe",
+    "id": "2e7238c6"
+  },
+  {
+    "email": "dvds1987@gmail.com",
+    "password": "qweqwe",
+    "id": "39b45c37"
+  },
+  {
+    "email": "d19831237@gmail.com",
+    "password": "qweqwe",
+    "id": "7b3ba34c"
+  },
+  {
+    "email": "d1983122237@gmail.com",
+    "password": "0f0d0e024d00e898fc180b043d79521c6f4ab8bd2378156d6c79c2fb896a929aa6321aaa88deedf14a5ff79c2d61ee277f440e7eb6f15693457ed5fc13e6960b.6f58b07aa4d4d10c",
+    "id": "7e215a77"
+  },
+  {
+    "email": "dani@wp.pl2",
+    "password": "5e9120bebc03855f0f7e1e0407b3e2a6007d77b7b56478f45a94fbea9057a379b26e2a0cd00c3ff21e2bb3e5e2016f501f53ff853a9803288c8de5d7b219c4a1.0c293e1b148f344d",
+    "id": "86500349"
+  }
+]
