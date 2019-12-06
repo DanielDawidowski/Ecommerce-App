@@ -1,7 +1,7 @@
 const layout = require('../layout')
 
 const getError = (errors, prop) => {
-    // prop === 'email || 'password' || 'passwordConfirmation'
+    // prop === 'email || 'password' || 'passwordConfirmation' a
     try {
         return errors.mapped()[prop].msg
     } catch (err) {
